@@ -3,7 +3,7 @@ local html = @"<!doctype html>
 <head>
   <meta charset=""utf-8"" />
   <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
-  <title>jQuery UI Slider - Vertical slider</title>
+  <title>Pan/Tilt Control</title>
   <link rel=""stylesheet"" href=""https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"" />
   <link rel=""stylesheet"" href=""//d2c5utp5fpfikz.cloudfront.net/2_3_1/css/bootstrap.min.css"" >
   <link rel=""stylesheet"" href=""//d2c5utp5fpfikz.cloudfront.net/2_3_1/css/bootstrap-responsive.min.css"" >
