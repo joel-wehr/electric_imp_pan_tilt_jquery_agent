@@ -46,7 +46,7 @@ function configureHardware()
     hardware.pin9.configure(ANALOG_IN);
     server.log("Hardware Configured");
 }
-imp.configure("Servo Control", [], []);
+
 configureHardware();
 move_1_to(0.5);//Center Servo 1
 move_2_to(0.5);//Center Servo 2    
